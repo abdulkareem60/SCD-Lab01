@@ -12,4 +12,5 @@ public class SquareTest {
 		int output = obj.square(5);
 		assertEquals(25, output);
 	}
+	// This is Square Test (updated in branch v2)
 }
